@@ -1,0 +1,2 @@
+Este es un ejemplo de archivo
+plano y para ser utilizado en Git.
